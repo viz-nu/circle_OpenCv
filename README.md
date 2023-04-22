@@ -14,7 +14,7 @@ circle_OpenCv is an web app that detects circles in images and stored in DB.
 ## Demo
 
 
-![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/5.jpeg)
+![](https://github.com/viz-nu/circle_OpenCv/blob/main/circleDetector/5.jpg)
 ## Run Locally
 
 Clone the project
